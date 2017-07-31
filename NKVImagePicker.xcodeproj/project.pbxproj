@@ -14,6 +14,7 @@
 		EB84913F1ED435260069CD20 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EB84913D1ED435260069CD20 /* LaunchScreen.storyboard */; };
 		EBD53F5A1ED73C0F007510E3 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = EBD53F581ED73C0F007510E3 /* README.md */; };
 		EBF20BCB1F2F2687003AD39F /* NKVImagePicker.podspec in Resources */ = {isa = PBXBuildFile; fileRef = EBF20BCA1F2F2687003AD39F /* NKVImagePicker.podspec */; };
+		EBF20BCF1F2F2AFA003AD39F /* NKVAvatarImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBF20BCE1F2F2AFA003AD39F /* NKVAvatarImageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		EB8491401ED435260069CD20 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EBD53F581ED73C0F007510E3 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		EBF20BCA1F2F2687003AD39F /* NKVImagePicker.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = NKVImagePicker.podspec; sourceTree = SOURCE_ROOT; };
+		EBF20BCE1F2F2AFA003AD39F /* NKVAvatarImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NKVAvatarImageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 				EBEEE4E51ED62359007F9981 /* Helpers */,
 				EB8491E51ED436140069CD20 /* Views */,
 				EB8491E31ED435F70069CD20 /* Models */,
+				EBF20BCE1F2F2AFA003AD39F /* NKVAvatarImageView.swift */,
 			);
 			path = Sources;
 			sourceTree = "<group>";
@@ -188,6 +191,7 @@
 				EBD53F5A1ED73C0F007510E3 /* README.md in Sources */,
 				EB8491371ED435260069CD20 /* ExampleViewController.swift in Sources */,
 				EB8491351ED435260069CD20 /* AppDelegate.swift in Sources */,
+				EBF20BCF1F2F2AFA003AD39F /* NKVAvatarImageView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
